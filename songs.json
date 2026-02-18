@@ -138,5 +138,26 @@
     "album": "한국",
     "folder": "korean",
     "filename": "bicheul_simeo"
+  },
+  {
+    "title": "Leere Schale",
+    "artist": "7272_southYangsan",
+    "album": "Philosophie",
+    "folder": "philosophie",
+    "filename": "leere_schale"
+  },
+  {
+    "title": "Namu Amitabul",
+    "artist": "7272_southYangsan",
+    "album": "Philosophie",
+    "folder": "philosophie",
+    "filename": "namu_amitabul"
+  },
+  {
+    "title": "Be Kind (Slow)",
+    "artist": "7272_southYangsan",
+    "album": "Poesie",
+    "folder": "poesie",
+    "filename": "be_kind"
   }
 ]
