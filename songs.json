@@ -103,5 +103,40 @@
     "album": "Sterben",
     "folder": "sterben",
     "filename": "glanzvolles_verschwinden"
+  },
+  {
+    "title": "Fluss aus Glas (Remix)",
+    "artist": "7272_southYangsan",
+    "album": "Philosophie",
+    "folder": "philosophie",
+    "filename": "fluss_aus_glas_remix"
+  },
+  {
+    "title": "Ereignishorizont",
+    "artist": "7272_southYangsan",
+    "album": "Poesie",
+    "folder": "poesie",
+    "filename": "ereignishorizont"
+  },
+  {
+    "title": "찬란한",
+    "artist": "7272_southYangsan",
+    "album": "한국",
+    "folder": "korean",
+    "filename": "chan_ran_han"
+  },
+  {
+    "title": "우린 이어져",
+    "artist": "7272_southYangsan",
+    "album": "한국",
+    "folder": "korean",
+    "filename": "urin_ieojeo"
+  },
+  {
+    "title": "빛을 심어",
+    "artist": "7272_southYangsan",
+    "album": "한국",
+    "folder": "korean",
+    "filename": "bicheul_simeo"
   }
 ]
